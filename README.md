@@ -1,10 +1,10 @@
 # Intelligent Interactive Media Development Spring 2024
 
-## Department of Digital Media Technology, School of Information Science, BLCU
+## Department of Digital Media Technology, College of Information Science, BLCU
 
 ### Teacher : Chen Kang 
 
-**This is the project repository for intelligent interactive media development at the Digital Media Technology Department of BLCU of Information Science for the spring semester of 2024. Our Project is a VTuber based on OpenCV for facial feature capture.**
+**This is the project repository for intelligent interactive media development at the Digital Media Technology Department, College of Information Science of BLCU for the spring semester of 2024. Our Project is a VTuber based on OpenCV for facial feature capture.**
 
 
 
