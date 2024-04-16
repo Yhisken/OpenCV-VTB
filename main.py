@@ -75,7 +75,9 @@ def get_img_features(img):
     cv2.imshow('self', img)
     return Rotate_amounts
 
-
+# test test test test test
+# test test test test test
+# test test test test test
 if __name__ == '__main__':
     cap = cv2.VideoCapture(0)
     origin_features = get_img_features(cv2.imread('std_face.jpg'))
